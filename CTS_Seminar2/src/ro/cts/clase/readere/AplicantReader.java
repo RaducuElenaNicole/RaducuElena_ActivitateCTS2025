@@ -3,7 +3,6 @@ package ro.cts.clase.readere;
 import ro.cts.clase.Aplicant;
 
 import java.io.FileNotFoundException;
-import java.io.IOException;
 import java.util.List;
 import java.util.Scanner;
 
@@ -29,7 +28,7 @@ public abstract class AplicantReader {
         String[] vect = new String[5];
         for (int i = 0; i < nr; i++)
             vect[i] = input.next();
-        aplicant.setNr_proiecte(nr, vect);
+        aplicant.setNrProiecte(nr, vect);
 
     }
 }

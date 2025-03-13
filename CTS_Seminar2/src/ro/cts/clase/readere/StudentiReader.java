@@ -21,7 +21,7 @@ public class StudentiReader extends AplicantReader {
             super.citesteAplicant(input, stud);
 
             int an_studii = input.nextInt();
-            stud.setAn_studii(an_studii);
+            stud.setAnStudii(an_studii);
 
             String facultate = (input.next()).toString();
             stud.setFacultate(facultate);

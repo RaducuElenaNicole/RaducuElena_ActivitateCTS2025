@@ -10,12 +10,15 @@ public class Elev extends Aplicant{
 	public int getClasa() {
 		return clasa;
 	}
+
 	public void setClasa(int i) {
 		this.clasa = i;
 	}
+
 	public String getTutore() {
 		return tutore;
 	}
+
 	public void setTutore(String tutore) {
 		this.tutore = tutore;
 	}
@@ -24,8 +27,9 @@ public class Elev extends Aplicant{
 	@Override
 	public String toString() {
 		return "Elev: Nume=" + nume + ", Prenume=" + prenume + ", Varsta="
-				+ varsta + ", Punctaj=" + punctaj + ", Nr_proiecte=" + nr_proiecte  + ", DenumireProiect="
-				+ Arrays.toString(denumireProiect) + "Clasa=" + clasa + ", Tutore=" + tutore;
+				+ varsta + ", Punctaj=" + punctaj + ", Nr_proiecte=" + nrProiecte
+				+ ", DenumireProiect=" + Arrays.toString(denumireProiect)
+				+ "Clasa=" + clasa + ", Tutore=" + tutore;
 	}
 	
 	public Elev() {
@@ -40,7 +44,8 @@ public class Elev extends Aplicant{
 	}
 	
 	public void afiseazaInformatiiFinantare() {
-		System.out.println("Angajatul "+getNume()+" "+getPrenume()+" primeste"+sumaFinantare+" Euro/zi in proiect.");
+		System.out.println("Angajatul "+getNume()+" "+getPrenume()
+				+" primeste"+sumaFinantare+" Euro/zi in proiect.");
 	}
 	
 }
