@@ -10,5 +10,8 @@ public class MainRegistry {
         Reglementare reg2 = autoritate.reglementeazaModel("Tesla");
         System.out.println(reg1);
         System.out.println(reg2);
+
+        Reglementare reg3 = autoritate.reglementeazaModel("Dacia Logan");
+        System.out.println(reg3);
     }
 }
