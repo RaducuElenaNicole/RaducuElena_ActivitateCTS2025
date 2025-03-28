@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A1_Builder_V1/A1_Builder_V1.iml" filepath="$PROJECT_DIR$/A1_Builder_V1/A1_Builder_V1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A1_Builder_V2/A1_Builder_V2.iml" filepath="$PROJECT_DIR$/A1_Builder_V2/A1_Builder_V2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A3_FactoryMethod/A3_FactoryMethod.iml" filepath="$PROJECT_DIR$/A3_FactoryMethod/A3_FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS_Seminar5.iml" filepath="$PROJECT_DIR$/CTS_Seminar5.iml" />
+    </modules>
+  </component>
+</project>
