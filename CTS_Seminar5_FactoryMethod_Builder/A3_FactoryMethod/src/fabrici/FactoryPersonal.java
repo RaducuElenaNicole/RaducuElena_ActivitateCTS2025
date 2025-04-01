@@ -1,7 +1,7 @@
 package fabrici;
 
-import clase.Angajat;
+import clase.tipAngajat.PersonalSpital;
 
 public interface FactoryPersonal {
-    Angajat creareAngajat(TipPersonal tipPersonal);
+    PersonalSpital crearePersonajSpital(TipPersonalSpital tip, String nume, double salariu);
 }

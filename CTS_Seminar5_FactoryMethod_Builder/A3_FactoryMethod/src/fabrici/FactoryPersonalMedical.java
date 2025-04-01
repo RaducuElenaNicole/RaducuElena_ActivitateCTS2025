@@ -1,6 +1,8 @@
 package fabrici;
 
-import clase.Angajat;
+import clase.tipAngajat.Asistent;
+import clase.tipAngajat.Medic;
+import clase.tipAngajat.PersonalSpital;
 
 public class FactoryPersonalMedical implements FactoryPersonal{
     private double spor;
@@ -13,9 +15,13 @@ public class FactoryPersonalMedical implements FactoryPersonal{
         this.spor = spor;
     }
 
-    @Override
-    public Angajat creareAngajat(TipPersonal tipPersonal, String nume, double salariu) {
 
-        return null;
+    @Override
+    public PersonalSpital crearePersonajSpital(TipPersonalSpital tip, String nume, double salariu) {
+        return switch ((TipPersonalMedical)tip){
+            case MEDIC -> new Medic(nume, salariu, spor);
+            case ASISTENT -> new Asistent(nume, salariu, spor);
+            default -> null;
+        };
     }
 }

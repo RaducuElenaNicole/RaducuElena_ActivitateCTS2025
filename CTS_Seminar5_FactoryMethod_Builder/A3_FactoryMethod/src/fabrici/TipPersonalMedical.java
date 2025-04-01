@@ -1,6 +1,6 @@
 package fabrici;
 
-public enum TipPersonalMedical implements TipPersonal{
+public enum TipPersonalMedical implements TipPersonalSpital{
     ASISTENT,
-    MEDIC;
+    MEDIC
 }
