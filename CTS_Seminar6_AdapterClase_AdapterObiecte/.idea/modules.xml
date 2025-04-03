@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A5_Adapter_Clase/A5_Adapter_Clase.iml" filepath="$PROJECT_DIR$/A5_Adapter_Clase/A5_Adapter_Clase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A5_Adapter_Obiecte/A5_Adapter_Obiecte.iml" filepath="$PROJECT_DIR$/A5_Adapter_Obiecte/A5_Adapter_Obiecte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS_Seminar6.iml" filepath="$PROJECT_DIR$/CTS_Seminar6.iml" />
+    </modules>
+  </component>
+</project>
