@@ -6,6 +6,8 @@ import clase.Spitalizare;
 
 public class Main {
     public static void main(String[] args){
+        System.out.println("Flyweight!");
+
         Receptie receptie = new Receptie();
 
         receptie.getPacient("Ana Avram", "08975123456", "Bucuresti, Sector 6");
@@ -20,7 +22,8 @@ public class Main {
         try{
             receptie.getPacient("Ioan").afisareInformatii(s1);
             receptie.getPacient("Ana Avram").afisareInformatii(s2);
-            receptie.getPacient("Ioan").afisareInformatii(s3);
+            receptie.getPacient("Ioana Avram").afisareInformatii(s3);
+            receptie.getPacient("Andreea").afisareInformatii(s3);
         } catch (Exception e) {
             System.out.println("Nu exista persoana!");
         }

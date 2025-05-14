@@ -48,6 +48,8 @@ public class Pacient implements PacientAbstract{
     @Override
     public void afisareInformatii(Spitalizare s) {
         System.out.println("Detalii despre pacient: " + this.toString());
+        System.out.println("Pacient { nume: " + this.nume + " | telefon:  "
+                + this.numarTelefon + " | adresa: " + this.adresa + " }");
         System.out.println("Detalii despre specializare: " + s.toString());
         System.out.println("\n-----------\n");
     }
