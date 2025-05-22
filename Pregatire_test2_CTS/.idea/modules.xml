@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Design Pattern - STRUCTURALE/DP_01_Adapter_Obiecte/DP_01_Adapter_Obiecte.iml" filepath="$PROJECT_DIR$/Design Pattern - STRUCTURALE/DP_01_Adapter_Obiecte/DP_01_Adapter_Obiecte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Pattern - STRUCTURALE/DP_02_Composite/DP_02_Composite.iml" filepath="$PROJECT_DIR$/Design Pattern - STRUCTURALE/DP_02_Composite/DP_02_Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Pattern - STRUCTURALE/DP_03_Decorator/DP_03_Decorator.iml" filepath="$PROJECT_DIR$/Design Pattern - STRUCTURALE/DP_03_Decorator/DP_03_Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Pattern - STRUCTURALE/DP_04_Facade/DP_04_Facade.iml" filepath="$PROJECT_DIR$/Design Pattern - STRUCTURALE/DP_04_Facade/DP_04_Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Pattern - STRUCTURALE/DP_05_Flyweight/DP_05_Flyweight.iml" filepath="$PROJECT_DIR$/Design Pattern - STRUCTURALE/DP_05_Flyweight/DP_05_Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Pattern - STRUCTURALE/DP_06_Proxy/DP_06_Proxy.iml" filepath="$PROJECT_DIR$/Design Pattern - STRUCTURALE/DP_06_Proxy/DP_06_Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Pattern - COMPORTAMENTALE/DP_C_01_Observer/DP_C_01_Observer.iml" filepath="$PROJECT_DIR$/Design Pattern - COMPORTAMENTALE/DP_C_01_Observer/DP_C_01_Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Pattern - COMPORTAMENTALE/DP_C_02_Strategy/DP_C_02_Strategy.iml" filepath="$PROJECT_DIR$/Design Pattern - COMPORTAMENTALE/DP_C_02_Strategy/DP_C_02_Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Pattern - COMPORTAMENTALE/DP_C_03_Template/DP_C_03_Template.iml" filepath="$PROJECT_DIR$/Design Pattern - COMPORTAMENTALE/DP_C_03_Template/DP_C_03_Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Pattern - COMPORTAMENTALE/DP_C_04_ChainOfResponsability/DP_C_04_ChainOfResponsability.iml" filepath="$PROJECT_DIR$/Design Pattern - COMPORTAMENTALE/DP_C_04_ChainOfResponsability/DP_C_04_ChainOfResponsability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pregatire_test2_CTS.iml" filepath="$PROJECT_DIR$/Pregatire_test2_CTS.iml" />
+    </modules>
+  </component>
+</project>
